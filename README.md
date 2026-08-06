@@ -99,7 +99,8 @@ npm run preview
 
 ## 📸 Screenshots
 
-> Add screenshots of the Home Page, Search Page, and Train Details Page here.
+<img width="837" height="902" alt="Screenshot 2026-08-06 182515" src="https://github.com/user-attachments/assets/475cae15-ed7c-4d90-9ee1-669274c625c0" />
+
 
 ---
 
