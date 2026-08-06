@@ -168,10 +168,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Atul Sharma**
+**Shubham Sharma**
 
-- GitHub: https://github.com/atulsharma47
-- LinkedIn: https://www.linkedin.com/in/atul-sharma-ab03882b6/
+- GitHub: https://github.com/shubham-coder-ship-it
+- LinkedIn: https://www.linkedin.com/in/shubham-sharma-55ab97367
 
 ---
 
